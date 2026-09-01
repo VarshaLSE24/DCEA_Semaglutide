@@ -43,8 +43,8 @@ England's official small-area deprivation ranking; Q1 = most deprived.
 Total health discounted for how unequally it is spread.
 </details>
 <details>
-<summary><strong>α</strong> — Inequality aversion parameter</summary>
-Quantifies society's willingness to trade off overall population health for a fairer distribution, allowing us to mathematically weigh health gains across deprivation quintiles against opportunity costs to evaluate the true equity impact of semaglutide distribution. 
+<summary><strong>ε</strong> — Atkinson EDE</summary>
+A single number capturing how much overall population health society is willing to give up to achieve a more equal distribution of it — higher ε means a stronger priority on the health of worse-off groups.
 </details>
 <details>
 <summary><strong>WTP</strong> — Willingness-to-Pay threshold</summary>
